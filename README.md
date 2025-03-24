@@ -49,6 +49,6 @@ I am a passionate **Data Engineer** with expertise in building scalable data pip
 
 ## 📬 Contact Me
 - 📧 Email: [julienzhaox@gmail.com](mailto:julienzhaox@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/julien-zhao/)
+- 💼 Linkedin: [LinkedIn](https://www.linkedin.com/in/julien-zhao/)
 
 Let's connect ! 🚀
