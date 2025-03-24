@@ -1,52 +1,54 @@
-# Hi, I'm Julien ZHAO
+# 👋 Hello, I'm Julien ZHAO !
 
-**`Data Engineer`**
+🚀 **Data Engineer | Big Data | Cloud | DevOps**
 
-
+I am a passionate **Data Engineer** with expertise in building scalable data pipelines, managing big data architectures, and optimizing cloud-based data solutions. I love working with **Big Data, Cloud Computing, and Data Warehousing** to turn raw data into valuable insights.  
 
 ---
 
-### 🧰 Languages and Tools
-### 🖥️ Back-End & DevOps
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+## 🔧 Technologies & Tools
 
-<br /><br />
+### 📌 Programming Languages
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### 🗄️ Bases de Données
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="NoSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+### 🛢️ Databases & Warehousing
+- **SQL**: PostgreSQL, MySQL, BigQuery 
+- **NoSQL**: MongoDB, Cassandra, DynamoDB
+- **Data Warehouses**: Redshift, Snowflake, BigQuery
 
-<br /><br />
+### 🚀 Big Data & Streaming
+- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+- ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+- Hadoop (HDFS, Hive, MapReduce)
+- Apache Flink
 
-### 🌐 Front-End
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+### ☁️ Cloud & Services
+- **AWS**: S3, Glue, Lambda, EMR, Redshift
 
-<br /><br />
+### 🔧 ETL & Orchestration
+- ![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+- dbt (Data Build Tool)
+- Talend, Informatica
 
-### ☁️ Cloud & Conteneurisation
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-<img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+### 🏗️ DevOps & Infrastructure
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Terraform (IaC)
 
-<br /><br />
+### 📊 Data Visualization & BI
+- Power BI
 
-### 🛠️ Outils & Autres
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_Logo.svg" />
+### 🛠️ Version Control & CI/CD
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- GitHub Actions
+---
 
-<br /><br />
+## 📬 Contact Me
+- 📧 Email: [julienzhaox@gmail.com](mailto:julienzhaox@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/julien-zhao/)
 
-
-
-#
-
-
-
+Let's connect ! 🚀
