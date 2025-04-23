@@ -1,11 +1,5 @@
 # 👋 Hello, I'm Julien ZHAO !
 
-🚀 **Data Engineer | Big Data | Cloud | DevOps**
-
-I am a passionate **Data Engineer** with expertise in building scalable data pipelines, managing big data architectures, and optimizing cloud-based data solutions. I love working with **Big Data, Cloud Computing, and Data Warehousing** to turn raw data into valuable insights.  
-
----
-
 ## 🔧 Technologies & Tools
 
 ### 📌 Programming Languages
@@ -19,12 +13,6 @@ I am a passionate **Data Engineer** with expertise in building scalable data pip
 - **SQL**: PostgreSQL, MySQL, BigQuery 
 - **NoSQL**: MongoDB, Cassandra, DynamoDB
 - **Data Warehouses**: Redshift, Snowflake, BigQuery
-
-### 🚀 Big Data & Streaming
-- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-- ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-- Hadoop (HDFS, Hive, MapReduce)
-- Apache Flink
 
 ### ☁️ Cloud & Services
 - **AWS**: S3, Glue, Lambda, EMR, Redshift
